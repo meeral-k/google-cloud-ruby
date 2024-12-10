@@ -1,6 +1,7 @@
 # This workflow runs the Bigtable Conformance Test suite against the Bigtable
 # client library.
 # See https://github.com/googleapis/cloud-bigtable-clients-test
+name: manual_conformance
 on:
   workflow_dispatch:
 
