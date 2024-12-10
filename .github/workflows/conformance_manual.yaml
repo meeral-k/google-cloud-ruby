@@ -3,7 +3,7 @@
 # See https://github.com/googleapis/cloud-bigtable-clients-test
 on:
   workflow_dispatch:
-  name: conformance_manual
+
 jobs:
   bigtable_conformance:
     runs-on: ubuntu-latest
